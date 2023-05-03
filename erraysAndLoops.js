@@ -194,6 +194,11 @@
 
 //console.log(result)
 
+
+
+
+//week 2
+
 //let coffeeIsGrinding = false
 
 //let pressGrindBeans = () => {
@@ -251,17 +256,28 @@
 //console.log(getCelsius(59))
 
 
-let orderCount = 0
+//let orderCount = 0
 
-const take0rder = (cheese,tomato) => {
-    console.log(`Pizza with ${cheese,tomato}`)
-    orderCount++
+//const take0rder = (cheese,tomato) => {
+ //   console.log(`Pizza with ${cheese,tomato}`)
+ //   orderCount++
 
+//}
+//take0rder("cheese,tomato")
+
+//function getMoneyFromAtm(amount){
+ //   if (amount => balance){
+ //       return
+ //   }
+//}
+
+//let person = {
+ //   name: 'Mushtaq',
+ //   age:27 
+//}
+//console.log(person)
+
+let person = {
+    name: 'Mushtaq',
 }
-take0rder("cheese,tomato")
-
-function getMoneyFromAtm(amount){
-    if (amount => balance){
-        return
-    }
-}
+console.log(person)
